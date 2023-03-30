@@ -9,3 +9,5 @@ HTML folder consists of 4 files
 4)index.json
 
 Images folder consists of all images used in building the website
+
+To run the website index.html file must be opened in any browser 
